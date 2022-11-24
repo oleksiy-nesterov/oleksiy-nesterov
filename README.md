@@ -1,9 +1,15 @@
-[![savelife](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly)
+<p align="center" width="100%">
+    <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly" target="_blank">
+      <img width="50%" src="https://raw.githubusercontent.com/oleksiy-nesterov/oleksiy-nesterov/main/ua.svg"> 
+    </a>
+</p>
+<p align="center" width="100%">
+  <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly" target="_blank">Help Ukraine <b>Right Now</b> &rarr;</a>
+</p>
 
 <!--
-**oleksiy-nesterov/oleksiy-nesterov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![savelife](https://raw.githubusercontent.com/oleksiy-nesterov/oleksiy-nesterov/main/ua.svg)](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,8 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
 -->
-
-
